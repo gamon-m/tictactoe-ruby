@@ -1,6 +1,6 @@
 # Running the project
 
-Make sure ruby installed
+Make sure ruby is installed
 
 Check you have the bundler gem installed, if not, install it using `gem install bundler`
 
